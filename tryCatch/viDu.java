@@ -7,6 +7,7 @@ public class viDu {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n ;
+        // String name = sc.nextLine();
         try {
         System.out.println("nhap vao so nguyen:");
         n = sc.nextInt();
